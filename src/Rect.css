@@ -1,0 +1,83 @@
+.rect {
+    height: 530px;
+    width: 360px;
+    background: linear-gradient(180deg, #ffffff26 0%, #ffffff13 52.08%, #ffffff00 100%);
+    border-radius: 15px;
+    border: 3px solid;
+    border-image-slice: 20;
+    border-image-source: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+}
+
+.rect:hover {
+    background: linear-gradient(334.7deg, #FE3688 0%, #73BCFF 94.7%);
+}
+
+.calendar {
+    position: relative;
+    top: -43px;
+    height: 225px;
+    width: 225px;
+}
+
+.shakehands {
+    position: relative;
+    top: -54px;
+    height: 325px;
+    width: 325px;
+}
+
+.lefttitle {
+    position: relative;
+    width: 193px;
+    height: 46px;
+    font-family: Overpass;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.leftbody {
+    position: relative;
+    top: 15px;
+    width: 315px;
+    height: 81px;
+    font-family: Overpass;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.righttitle {
+    position: relative;
+    top: -50px;
+    width: 193px;
+    height: 46px;
+    font-family: Overpass;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.rightbody {
+    position: relative;
+    top: -35px;
+    width: 315px;
+    height: 81px;
+    font-family: Overpass;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+

@@ -1,0 +1,26 @@
+.left {
+  position: absolute;
+  text-align: center;
+  left: 224px;
+  right: 668px;
+  top: 90px;
+  bottom: 202px;
+  border-radius: 15px;
+}
+
+.right {
+  position: absolute;
+  text-align: center;
+  left: 668px;
+  right: 224px;
+  top: 90px;
+  bottom: 202px;
+  border-radius: 15px;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
